@@ -4,7 +4,7 @@
 package com.collections;
 
 class TreeNode {
-	private int data;
+	int data;
 	TreeNode left;
 	TreeNode right;
 
